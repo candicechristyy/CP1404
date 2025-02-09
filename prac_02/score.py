@@ -1,7 +1,7 @@
 import random
 """
 CP1404/CP5632 - Practical
-Broken program to determine score status
+Program to determine score status, generate random score and print result
 """
 def main():
     score = float(input("Enter score: "))
