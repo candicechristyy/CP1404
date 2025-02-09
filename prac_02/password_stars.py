@@ -1,6 +1,6 @@
 """
 CP1404/CP5632 - Practical
-Valid password checking program and print asterisks based on password length
+Program to check for valid password and print asterisks based on password length
 """
 MINIMUM_PASSWORD_LENGTH = 8
 def main():
