@@ -1,6 +1,6 @@
 """
 CP1404/CP5632 Practical
-Program to look up hexadecimal colour codes
+Program to search up hexadecimal colour codes
 """
 
 COLOUR_TO_CODE = {"Absolutezero": "#0048ba", "Acidgreen": "#b0bf1a", "Aliceblue": "#f0f8ff", "Alizarincrimson": "#e32636",
