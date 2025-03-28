@@ -1,3 +1,8 @@
+"""
+CP1404/CP5632 Practical
+Kivy GUI program to greet name and clear text
+"""
+
 from kivy.app import App
 from kivy.lang import Builder
 
